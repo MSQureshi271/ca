@@ -10,3 +10,15 @@ Multiplication=3
 Division=4
 
 Then the answer is printed depending upon the operation, and we pushed everything to the global repository
+
+ gitinit InitializeanewGitrepository
+ gitclone ClonearepositoryfromaURL
+ gitadd Addfile(s)tothestagingarea
+ gitcommit-m"message" Commitchangeswithamessage
+ gitbranch Listallbranches
+ gitmerge Mergeabranchintothecurrentbranch
+ gitremoteadd Addanewremote
+ gitpushorigin Pushabranchtoaremoterepository
+ gitpullorigin Pullchangesfromaremoterepository
+ gitfetchorigin Fetchchangesfromaremotewithout
+ gitlog Showthecommithistory
