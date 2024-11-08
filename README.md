@@ -8,3 +8,5 @@ Addition=1
 Subtraction=2
 Multiplication=3
 Division=4
+
+Then the answer is printed depending upon the operation, and we pushed everything to the global repository
