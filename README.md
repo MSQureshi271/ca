@@ -1,2 +1,3 @@
 # Calculator-for-FIT
-Assignment task for FIT lab 
+Assignment task for FIT lab ( Working calculator )
+
